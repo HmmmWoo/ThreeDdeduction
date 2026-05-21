@@ -27,7 +27,7 @@ namespace Haopan.Entity.Mian
             this._Length = Length;
             this._Width = Width;
             this._Radian_TopView = Radian;
-            this._Lst_ThreeDPoint = Lst_ThreeDPoint;
+            this.Lst_ThreeDPoint = Lst_ThreeDPoint;
         }
 
         private ThreeDPoint _BasePoint;

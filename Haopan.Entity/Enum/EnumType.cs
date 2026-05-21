@@ -6,15 +6,14 @@ using System.Threading.Tasks;
 
 namespace Haopan.Entity.Enum
 {
-    public class EnumType
-    {
-
-    }
+    /// <summary>
+    /// 位置枚举：底面、侧面、顶面
+    /// </summary>
     public enum PositionEnum
     {
         None,
-        底面,
-        侧面,
-        顶面
+        Bottom,   // 底面
+        Side,     // 侧面
+        Top       // 顶面
     }
 }
