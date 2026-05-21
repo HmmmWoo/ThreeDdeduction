@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Haopan.Entity/Haopan.Entity.csproj" />
+  <Project Path="Haopan.ThreeDdeduction/Haopan.ThreeDdeduction.csproj" />
+</Solution>

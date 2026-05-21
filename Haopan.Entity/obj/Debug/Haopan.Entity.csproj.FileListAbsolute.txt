@@ -1,0 +1,6 @@
+H:\ThreeDdeduction\Haopan.Entity\obj\Debug\Haopan.Entity.csproj.AssemblyReference.cache
+H:\ThreeDdeduction\Haopan.Entity\obj\Debug\Haopan.Entity.csproj.CoreCompileInputs.cache
+H:\ThreeDdeduction\Haopan.Entity\bin\Debug\Haopan.Entity.dll
+H:\ThreeDdeduction\Haopan.Entity\bin\Debug\Haopan.Entity.pdb
+H:\ThreeDdeduction\Haopan.Entity\obj\Debug\Haopan.Entity.dll
+H:\ThreeDdeduction\Haopan.Entity\obj\Debug\Haopan.Entity.pdb
